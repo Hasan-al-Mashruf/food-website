@@ -1,0 +1,49 @@
+// [
+//     {
+//         "category": "DAIRY FREE",
+//         "name": "Blueberry Seasalt",
+//         "img": "https://i.ibb.co/nnnp9SY/product-override-09.png",
+//         "price": 3.75
+//     },
+//     {
+//         "category": "SUGAR FREE",
+//         "name": "Cinnamon Almond",
+//         "img": "https://i.ibb.co/Ycm3fM3/product-override-08.png",
+//         "price": 3.70
+//     },
+//     {
+//         "category": "FULL FLAVOR",
+//         "name": "Wild Strawberries",
+//         "img": "https://i.ibb.co/RB3wtYq/product-override-07.png",
+//         "price": 3.70
+//     },
+//     {
+//         "category": "FULL FLAVOR",
+//         "name": "Chocolate Delight",
+//         "img": "https://i.ibb.co/CbH03wG/product-override-10.png",
+//         "price": 3.70
+//     },
+//     {
+//         "category": "FULL FLAVOR",
+//         "name": "Tropical Vanilla Cake",
+//         "img": "https://i.ibb.co/994W1Sx/product-override-11.png",
+//         "price": 3.70
+//     },
+//     {
+//         "category": "DAIRY FREE",
+//         "name": "Birthday Cake",
+//         "img": "https://i.ibb.co/kyggH0w/product-override-12.png",
+//         "price": 3.70
+//     }
+// ]
+// [
+//     {
+//         "category": "DAIRY FREE"
+//     },
+//     {
+//         "category": "FULL FLAVOR"
+//     },
+//     {
+//         "category": "SUGAR FREE"
+//     }
+// ]
